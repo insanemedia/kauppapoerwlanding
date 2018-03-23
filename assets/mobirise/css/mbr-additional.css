@@ -1357,11 +1357,11 @@ body {
 .cid-qMRtHJDHV1 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #cc2952;
 }
 .cid-qMRtHJDHV1 .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #f7ed4a;
+  color: #f7ed4a;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -2002,6 +2002,10 @@ body {
 }
 .cid-qMRovFyv9J .mbr-overlay ~ .container-slide {
   z-index: auto;
+}
+.cid-qMRovFyv9J H2 {
+  color: #c4bc3b;
+  text-align: center;
 }
 .cid-qMRoixzadJ {
   background-image: url("../../../assets/images/03.jpg");
